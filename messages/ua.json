@@ -1,0 +1,9 @@
+{
+  "Index": {
+    "title": "Привіт Світ"
+  },
+  "LocaleSwitcher": {
+    "label": "Вибери мову",
+    "locale": "{locale, select, pl {Польська} en {Англійська} other {Українська}}"
+  }
+}
